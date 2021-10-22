@@ -11,11 +11,7 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-h2 {
-  font-family: Georgia, serif;
-  font-size: 50px;
-  color: white;
-}
+
 
 div {
   padding: 10px;
