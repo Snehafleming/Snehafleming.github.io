@@ -2,7 +2,13 @@ h1 {
   border-width: 10px 1px;
 }
 body {
-  background-color: #b3cccc;
+  background: #e6ffff;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: #b3cccc;
 }
 a:link, a:visited {
   color: #e6ffff;
