@@ -34,7 +34,9 @@ div {
   font-size: 30px;
 }
 p {
-  font-size: 25px;
+  font-family: Verdana, sans-serif;
+  font-size: 18px;
+  color: gray;  
 }
 div.desc {
   padding: 15px;
