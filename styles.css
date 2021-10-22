@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
 body {
   background-color: #b3cccc;
 }
