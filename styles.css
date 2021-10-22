@@ -31,21 +31,20 @@ p {
 }
 h2 {
   font-size: 40px;
-  
 }
 div {
   font-size: 30px;
   line-height: 1.6;
 }
-h3{
+h3 {
  font-size: 30px;
  font-family: Verdana, sans-serif;
 }
-#heading{
+#heading {
  font-size: 15px;
  font-family: Helvetica, sans-serif;
 }
-li{
+li {
  font-size: 35px;
  font-family: Garamond, serif;
 }
@@ -63,7 +62,14 @@ table, th, td {
   border-collapse: collapse;
   text-align: center;
 }
-.style{
+.style {
 font-family:"Trebuchet MS Italic";
 }
-
+div.desc {
+  padding: 15px; 
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
