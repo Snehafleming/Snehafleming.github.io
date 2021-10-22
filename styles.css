@@ -11,6 +11,9 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
+img {
+  display: right;
+}
 h2 {
   font-family: Georgia, serif;
   font-size: 30px;
