@@ -25,11 +25,13 @@ div {
   padding: 10px;
   width: 1000px;
   text-align: justify;
-  font-family: Verdana, sans-serif;
 }
-
+p {
+  text-indent: 10px;
+}
 h2 {
   font-size: 40px;
+  
 }
 div {
   font-size: 30px;
