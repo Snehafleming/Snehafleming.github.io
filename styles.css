@@ -34,11 +34,11 @@ div {
   font-size: 30px;
 }
 h3{
- font-size: 50px;
+ font-size: 30px;
  font-family: Verdana, sans-serif;
 }
-ul{
- font-size: 40px;
+#heading{
+ font-size: 15px;
  font-family: Helvetica, sans-serif;
 }
 li{
