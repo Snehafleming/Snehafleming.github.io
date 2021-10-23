@@ -1,6 +1,11 @@
 body {
   background-color: #b3cccc;
 }
+.column {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+}
 h1 {
   border-width: 10px 1px;
 }
@@ -23,22 +28,6 @@ h2 {
 }
 p {
   text-indent: 10px;
-}
-.container {
-  position: relative;
-}
-
-.topright {
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  font-size: 10px;
-}
-
-img { 
-  width: 100%;
-  height: auto;
-  opacity: 0.3;
 }
 h2 {
   font-size: 40px;
