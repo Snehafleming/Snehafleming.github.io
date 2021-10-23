@@ -53,12 +53,12 @@ p {
   line-height: 1.6;
   font-weight: bold;
 }
-p.email {
+#email {
   font-size: 15px;
   font-family: Garamond, serif;
   color: gray;
 }
-p.blog {
+#blog {
   font-size: 15px;
   font-family: Garamond, serif;
   color: gray; 
