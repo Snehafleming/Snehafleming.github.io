@@ -53,6 +53,16 @@ p {
   line-height: 1.6;
   font-weight: bold;
 }
+p.email {
+  font-size: 15px;
+  font-family: Garamond, serif;
+  color: gray;
+}
+p.blog {
+  font-size: 15px;
+  font-family: Garamond, serif;
+  color: gray; 
+}
 div.desc {
   padding: 15px; 
 }
